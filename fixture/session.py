@@ -8,7 +8,7 @@ class SessionHelper:
 
     def login(self, username, password):
         wd = self.app.wd
-        self.app.navigate.open_cross_auth_page()
+        self.app.navigation.open_cross_auth_page()
         wd.find_element_by_name("email").click()
         wd.find_element_by_name("email").clear()
         wd.find_element_by_name("email").send_keys(username)
