@@ -2,11 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a93d253e-f994-4647-81ff-0c468648b318" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/test/test_1_search_query_'oerfect'.py" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/conftest.py" afterPath="$PROJECT_DIR$/conftest.py" />
       <change beforePath="$PROJECT_DIR$/fixture/application.py" afterPath="$PROJECT_DIR$/fixture/application.py" />
       <change beforePath="$PROJECT_DIR$/fixture/navigation.py" afterPath="$PROJECT_DIR$/fixture/navigation.py" />
       <change beforePath="$PROJECT_DIR$/fixture/search.py" afterPath="$PROJECT_DIR$/fixture/search.py" />
-      <change beforePath="$PROJECT_DIR$/test/test_1_search_master_recording.py" afterPath="$PROJECT_DIR$/test/test_1_search_master_recording.py" />
+      <change beforePath="$PROJECT_DIR$/fixture/session.py" afterPath="$PROJECT_DIR$/fixture/session.py" />
+      <change beforePath="$PROJECT_DIR$/test/test_1_search_master_recording.py" afterPath="" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -18,53 +22,28 @@
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/Cross_Music_TestsAutomatization$test_login_logout.coverage" NAME="test_login_logout Coverage Results" MODIFIED="1516045240889" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Cross_Music_TestsAutomatization" />
+  </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="test_1_search_master_recording.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test/test_1_search_master_recording.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="search.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/fixture/search.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-              <folding />
+            <state relative-caret-position="451">
+              <caret line="37" column="0" lean-forward="true" selection-start-line="37" selection-start-column="0" selection-end-line="37" selection-end-column="0" />
+              <folding>
+                <element signature="e#28#71#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="navigation.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/fixture/navigation.py">
+      <file leaf-file-name="test_25_search_query_'goodbyes smith'.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test/test_25_search_query_'goodbyes smith'.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" column="8" lean-forward="false" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="65" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="conftest.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/conftest.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="29" column="0" lean-forward="true" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="session.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/fixture/session.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="17" column="8" lean-forward="false" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="99" />
+            <state relative-caret-position="60">
+              <caret line="4" column="34" lean-forward="true" selection-start-line="4" selection-start-column="34" selection-end-line="4" selection-end-column="48" />
               <folding />
             </state>
           </provider>
@@ -73,11 +52,31 @@
       <file leaf-file-name="application.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/fixture/application.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="58" />
+            <state relative-caret-position="390">
+              <caret line="26" column="0" lean-forward="true" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
               <folding>
                 <element signature="e#29#87#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="conftest.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/conftest.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="25" column="0" lean-forward="false" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test_1_search_query_'oerfect'.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test/test_1_search_query_'oerfect'.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -97,10 +96,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/test_login_logout.py" />
-        <option value="$PROJECT_DIR$/test_1.py" />
-        <option value="$PROJECT_DIR$/env/application.py" />
-        <option value="$PROJECT_DIR$/application.py" />
         <option value="$PROJECT_DIR$/login.py" />
         <option value="$PROJECT_DIR$/test/login.py" />
         <option value="$PROJECT_DIR$/test/conftest.py" />
@@ -110,11 +105,47 @@
         <option value="$PROJECT_DIR$/first_test.py" />
         <option value="$PROJECT_DIR$/fixture/navigate.py" />
         <option value="$PROJECT_DIR$/test/first_test.py" />
-        <option value="$PROJECT_DIR$/fixture/session.py" />
-        <option value="$PROJECT_DIR$/conftest.py" />
-        <option value="$PROJECT_DIR$/fixture/navigation.py" />
-        <option value="$PROJECT_DIR$/fixture/application.py" />
         <option value="$PROJECT_DIR$/test/test_1_search_master_recording.py" />
+        <option value="$PROJECT_DIR$/conftest.py" />
+        <option value="$PROJECT_DIR$/fixture/session.py" />
+        <option value="$PROJECT_DIR$/test/test_search/master_recording/test_2_search_master_recording_query_pervect.py" />
+        <option value="$PROJECT_DIR$/test/test_search/master_recording/test_3_search_master_recording_query_'perfecd'.py" />
+        <option value="$PROJECT_DIR$/test/test_search/master_recording/test_2_search_master_recording_query_'pervect'.py" />
+        <option value="$PROJECT_DIR$/test/test_search/master_recording/test_5_search_master_recording_query_'oll vant khristmas'.py" />
+        <option value="$PROJECT_DIR$/test/test_search/master_recording/test_4_search_master_recording_query_'chrismas'.py" />
+        <option value="$PROJECT_DIR$/test/test_search_songs_query_'perfect'.py" />
+        <option value="$PROJECT_DIR$/fixture/navigation.py" />
+        <option value="$PROJECT_DIR$/test/test_search/song/test_search_songs_query_'perfect'.py" />
+        <option value="$PROJECT_DIR$/test/test_search/master_recording/test_1_search_master_recording_query_'oerfect'.py" />
+        <option value="$PROJECT_DIR$/test/test_1_search_master_recording_query_'oerfect'.py" />
+        <option value="$PROJECT_DIR$/test/test_1_search_songs_query_'oerfect'.py" />
+        <option value="$PROJECT_DIR$/test/test_1_search_query_'oerfect'.py" />
+        <option value="$PROJECT_DIR$/test/test_3_search_query_'perfecd'.py" />
+        <option value="$PROJECT_DIR$/test/test_2_search_query_'pervect'.py" />
+        <option value="$PROJECT_DIR$/test/test_4_search_query_'chrismas'.py" />
+        <option value="$PROJECT_DIR$/test/test_5_search_query_'oll vant khristmas'.py" />
+        <option value="$PROJECT_DIR$/test/test_6_search_query_'asap'.py" />
+        <option value="$PROJECT_DIR$/test/test_7_search_query_'and'.py" />
+        <option value="$PROJECT_DIR$/test/test_search_query_'&amp;'.py" />
+        <option value="$PROJECT_DIR$/test/test_9_search_query_'lover'.py" />
+        <option value="$PROJECT_DIR$/test/test_10_search_query_'limits'.py" />
+        <option value="$PROJECT_DIR$/test/test_11_search_query_'that'.py" />
+        <option value="$PROJECT_DIR$/test/test_12_search_query_'thats'.py" />
+        <option value="$PROJECT_DIR$/test/test_13_search_query_'that's'.py" />
+        <option value="$PROJECT_DIR$/test/test_14_search_query_'g eazy'.py" />
+        <option value="$PROJECT_DIR$/test/test_15_search_query_'g-eazy'.py" />
+        <option value="$PROJECT_DIR$/test/test_16_search_query_'motor sport'py.py" />
+        <option value="$PROJECT_DIR$/test/test_17_search_query_'ma dog'.py" />
+        <option value="$PROJECT_DIR$/test/test_18_search_query_'fuck'.py" />
+        <option value="$PROJECT_DIR$/test/test_19_search_query_'18002738255'.py" />
+        <option value="$PROJECT_DIR$/test/test_20_search_query_'twenty one'.py" />
+        <option value="$PROJECT_DIR$/test/test_21_search_query_'weekend'.py" />
+        <option value="$PROJECT_DIR$/test/test_22_search_query_'holly jolly christmas'.py" />
+        <option value="$PROJECT_DIR$/test/test_23_search_query_'you loved i like'.py" />
+        <option value="$PROJECT_DIR$/test/test_24_search_query_'good at goodbyes'.py" />
+        <option value="$PROJECT_DIR$/test/test_25_search_query_'goodbyes smith'.py" />
+        <option value="$PROJECT_DIR$/test/test_26_search_query_'too good goodbyes'.py" />
+        <option value="$PROJECT_DIR$/fixture/application.py" />
         <option value="$PROJECT_DIR$/fixture/search.py" />
       </list>
     </option>
@@ -126,10 +157,27 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="x" value="-11" />
-    <option name="y" value="23" />
     <option name="width" value="1440" />
-    <option name="height" value="873" />
+    <option name="height" value="900" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>Python</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>PyBroadExceptionInspection</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="1" id="Add" />
@@ -149,6 +197,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -170,8 +220,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -183,8 +231,10 @@
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/test" />
+      <recent name="$PROJECT_DIR$/test/test_search/song" />
+      <recent name="$PROJECT_DIR$/test/test_search/master_recording" />
+      <recent name="$PROJECT_DIR$/test/test_search" />
       <recent name="$PROJECT_DIR$" />
-      <recent name="$PROJECT_DIR$/fixture" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -199,25 +249,21 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
-    <configuration name="test_login_logout" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python tests.py.test in test">
+    <configuration name="py.test in test" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
+      <envs />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Cross_Music_TestsAutomatization" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test_login_logout.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/test&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
     </configuration>
     <configuration name="py.test in test_1.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -232,21 +278,6 @@
       <option name="_new_keywords" value="&quot;&quot;" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
       <option name="_new_target" value="&quot;$PROJECT_DIR$/test_1.py&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
-    </configuration>
-    <configuration name="py.test in test_1_search_master_recording.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Cross_Music_TestsAutomatization" />
-      <option name="_new_keywords" value="&quot;&quot;" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/test/test_1_search_master_recording.py&quot;" />
       <option name="_new_targetType" value="&quot;PATH&quot;" />
     </configuration>
     <configuration name="py.test in test_1_search.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
@@ -264,18 +295,50 @@
       <option name="_new_target" value="&quot;$PROJECT_DIR$/test/test_1_search.py&quot;" />
       <option name="_new_targetType" value="&quot;PATH&quot;" />
     </configuration>
-    <list size="4">
-      <item index="0" class="java.lang.String" itemvalue="Python.test_login_logout" />
-      <item index="1" class="java.lang.String" itemvalue="Python tests.py.test in test_1.py" />
-      <item index="2" class="java.lang.String" itemvalue="Python tests.py.test in test_1_search.py" />
-      <item index="3" class="java.lang.String" itemvalue="Python tests.py.test in test_1_search_master_recording.py" />
+    <configuration name="py.test in test_1_search_query_'oerfect'.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Cross_Music_TestsAutomatization" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/test/test_1_search_query_\u0027oerfect\u0027.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+    </configuration>
+    <configuration name="py.test in test_1_search_songs_query_'oerfect'.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test/test_search/song" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Cross_Music_TestsAutomatization" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/test/test_search/song/test_1_search_songs_query_\u0027oerfect\u0027.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+    </configuration>
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="Python tests.py.test in test_1.py" />
+      <item index="1" class="java.lang.String" itemvalue="Python tests.py.test in test_1_search.py" />
+      <item index="2" class="java.lang.String" itemvalue="Python tests.py.test in test_1_search_query_'oerfect'.py" />
+      <item index="3" class="java.lang.String" itemvalue="Python tests.py.test in test" />
+      <item index="4" class="java.lang.String" itemvalue="Python tests.py.test in test_1_search_songs_query_'oerfect'.py" />
     </list>
     <recent_temporary>
-      <list size="4">
-        <item index="0" class="java.lang.String" itemvalue="Python tests.py.test in test_1_search_master_recording.py" />
-        <item index="1" class="java.lang.String" itemvalue="Python tests.py.test in test_1_search.py" />
-        <item index="2" class="java.lang.String" itemvalue="Python tests.py.test in test_1.py" />
-        <item index="3" class="java.lang.String" itemvalue="Python.test_login_logout" />
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Python tests.py.test in test" />
+        <item index="1" class="java.lang.String" itemvalue="Python tests.py.test in test_1_search_query_'oerfect'.py" />
+        <item index="2" class="java.lang.String" itemvalue="Python tests.py.test in test_1_search_songs_query_'oerfect'.py" />
+        <item index="3" class="java.lang.String" itemvalue="Python tests.py.test in test_1_search.py" />
+        <item index="4" class="java.lang.String" itemvalue="Python tests.py.test in test_1.py" />
       </list>
     </recent_temporary>
   </component>
@@ -296,35 +359,35 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="py_test_in_test_1_search_master_recording_py - 2018.01.17 at 09h 44m 16s.xml">
-      <configuration name="py.test in test_1_search_master_recording.py" configurationId="tests" />
+    <history-entry file="py_test_in_test - 2018.01.31 at 11h 48m 16s.xml">
+      <configuration name="py.test in test" configurationId="tests" />
     </history-entry>
-    <history-entry file="py_test_in_test_1_search_master_recording_py - 2018.01.17 at 13h 14m 10s.xml">
-      <configuration name="py.test in test_1_search_master_recording.py" configurationId="tests" />
+    <history-entry file="py_test_in_test - 2018.01.31 at 11h 56m 22s.xml">
+      <configuration name="py.test in test" configurationId="tests" />
     </history-entry>
-    <history-entry file="py_test_in_test_1_search_master_recording_py - 2018.01.17 at 13h 15m 39s.xml">
-      <configuration name="py.test in test_1_search_master_recording.py" configurationId="tests" />
+    <history-entry file="py_test_in_test - 2018.01.31 at 12h 05m 37s.xml">
+      <configuration name="py.test in test" configurationId="tests" />
     </history-entry>
-    <history-entry file="py_test_in_test_1_search_master_recording_py - 2018.01.17 at 20h 45m 11s.xml">
-      <configuration name="py.test in test_1_search_master_recording.py" configurationId="tests" />
+    <history-entry file="py_test_in_test - 2018.01.31 at 12h 07m 30s.xml">
+      <configuration name="py.test in test" configurationId="tests" />
     </history-entry>
-    <history-entry file="py_test_in_test_1_search_master_recording_py - 2018.01.17 at 20h 47m 01s.xml">
-      <configuration name="py.test in test_1_search_master_recording.py" configurationId="tests" />
+    <history-entry file="py_test_in_test - 2018.01.31 at 12h 13m 07s.xml">
+      <configuration name="py.test in test" configurationId="tests" />
     </history-entry>
-    <history-entry file="py_test_in_test_1_search_master_recording_py - 2018.01.17 at 20h 48m 02s.xml">
-      <configuration name="py.test in test_1_search_master_recording.py" configurationId="tests" />
+    <history-entry file="py_test_in_test_1_search_query_'oerfect'_py - 2018.01.31 at 08h 34m 46s.xml">
+      <configuration name="py.test in test_1_search_query_'oerfect'.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="py_test_in_test_1_search_master_recording_py - 2018.01.17 at 20h 48m 51s.xml">
-      <configuration name="py.test in test_1_search_master_recording.py" configurationId="tests" />
+    <history-entry file="py_test_in_test_1_search_query_'oerfect'_py - 2018.01.31 at 09h 05m 42s.xml">
+      <configuration name="py.test in test_1_search_query_'oerfect'.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="py_test_in_test_1_search_master_recording_py - 2018.01.17 at 20h 51m 26s.xml">
-      <configuration name="py.test in test_1_search_master_recording.py" configurationId="tests" />
+    <history-entry file="py_test_in_test_1_search_query_'oerfect'_py - 2018.01.31 at 11h 05m 19s.xml">
+      <configuration name="py.test in test_1_search_query_'oerfect'.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="py_test_in_test_1_search_master_recording_py - 2018.01.17 at 20h 55m 02s.xml">
-      <configuration name="py.test in test_1_search_master_recording.py" configurationId="tests" />
+    <history-entry file="py_test_in_test_search_songs_query_'perfect'_py - 2018.01.30 at 11h 56m 52s.xml">
+      <configuration name="py.test in test_search_songs_query_'perfect'.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="py_test_in_test_1_search_master_recording_py - 2018.01.17 at 20h 58m 30s.xml">
-      <configuration name="py.test in test_1_search_master_recording.py" configurationId="tests" />
+    <history-entry file="py_test_in_test_search_songs_query_'perfect'_py - 2018.01.30 at 11h 57m 47s.xml">
+      <configuration name="py.test in test_search_songs_query_'perfect'.py" configurationId="tests" />
     </history-entry>
   </component>
   <component name="TodoView" selected-index="3">
@@ -340,17 +403,17 @@
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25369978" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32904884" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30091614" sideWeight="0.49369368" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32889965" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32889965" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32904884" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3277635" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3083434" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32889965" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32769045" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28899637" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24947146" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32904884" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.30091614" sideWeight="0.5063063" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39903265" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -361,33 +424,75 @@
       <window_info id="SciView" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
+    <layout-to-restore>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32904884" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32904884" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3277635" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28899637" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32904884" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30091614" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32889965" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="SciView" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24947146" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="3" />
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+      <option name="time" value="5" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/fixture/search.py" />
-    <entry file="file://$PROJECT_DIR$/fixture/navigation.py" />
-    <entry file="file://$PROJECT_DIR$/fixture/session.py" />
-    <entry file="file://$PROJECT_DIR$/fixture/application.py" />
-    <entry file="file://$PROJECT_DIR$/test/test_1_search.py" />
-    <entry file="file://$PROJECT_DIR$/conftest.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="10" column="8" lean-forward="false" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/test_1_search.py" />
     <entry file="file://$PROJECT_DIR$/fixture/session.py" />
     <entry file="file://$PROJECT_DIR$/fixture/application.py" />
     <entry file="file://$PROJECT_DIR$/fixture/navigation.py" />
@@ -406,69 +511,243 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/test/test_1_search.py" />
-    <entry file="file://$PROJECT_DIR$/test/test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="27" lean-forward="true" selection-start-line="0" selection-start-column="27" selection-end-line="0" selection-end-column="27" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/test/test.py" />
     <entry file="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/unittest/case.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="4393">
           <caret line="442" column="8" lean-forward="false" selection-start-line="442" selection-start-column="8" selection-end-line="442" selection-end-column="8" />
-          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/test_search/master_recording/test_5_search_master_recording_query_'oll vant khristmas'.py" />
+    <entry file="file://$PROJECT_DIR$/test/test_search/master_recording/test_3_search_master_recording_query_'perfecd'.py" />
+    <entry file="file://$PROJECT_DIR$/test/test_search/master_recording/test_4_search_master_recording_query_'chrismas'.py" />
+    <entry file="file://$PROJECT_DIR$/test/test_search/master_recording/test_2_search_master_recording_query_'pervect'.py" />
+    <entry file="file://$PROJECT_DIR$/test/test_search/song/test_1_search_songs_query_'oerfect'.py" />
+    <entry file="file://$PROJECT_DIR$/test/test_search/song/test_1_search_songs_query_'oerfect'.py" />
+    <entry file="file://$PROJECT_DIR$/fixture/navigation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/fixture/session.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="8" lean-forward="false" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="99" />
-          <folding />
+        <state relative-caret-position="60">
+          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/test_2_search_query_'pervect'.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/test_3_search_query_'perfecd'.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="41" lean-forward="false" selection-start-line="4" selection-start-column="41" selection-end-line="4" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/test_4_search_query_'chrismas'.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/test_5_search_query_'oll vant khristmas'.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/test_6_search_query_'asap'.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/test_8_search_query_'&amp;'.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="37" lean-forward="false" selection-start-line="9" selection-start-column="37" selection-end-line="9" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/test_7_search_query_'and'.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/test_9_search_query_'lover'.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/test_11_search_query_'that'.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/test_12_search_query_'thats'.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/test_10_search_query_'limits'.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="61" lean-forward="false" selection-start-line="7" selection-start-column="61" selection-end-line="7" selection-end-column="79" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/test_13_search_query_'that's'.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/test_14_search_query_'g eazy'.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/test_16_search_query_'motor sport'py.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="69" lean-forward="false" selection-start-line="6" selection-start-column="69" selection-end-line="6" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/test_15_search_query_'g-eazy'.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/test_17_search_query_'ma dog'.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/test_18_search_query_'fuck'.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/test_19_search_query_'18002738255'.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/test_20_search_query_'twenty one'.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/test_21_search_query_'weekend'.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/test_22_search_query_'holly jolly christmas'.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/test_23_search_query_'you loved i like'.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/test_26_search_query_'too good goodbyes'.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/test_24_search_query_'good at goodbyes'.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/conftest.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="29" column="0" lean-forward="true" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+        <state relative-caret-position="360">
+          <caret line="25" column="0" lean-forward="false" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/fixture/navigation.py">
+    <entry file="file://$PROJECT_DIR$/test/test_1_search_query_'oerfect'.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="8" lean-forward="false" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="65" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/test_1_search_master_recording.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+        <state relative-caret-position="135">
+          <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/fixture/application.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="58" />
+        <state relative-caret-position="390">
+          <caret line="26" column="0" lean-forward="true" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
           <folding>
             <element signature="e#29#87#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/test/test_25_search_query_'goodbyes smith'.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="34" lean-forward="true" selection-start-line="4" selection-start-column="34" selection-end-line="4" selection-end-column="48" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/fixture/search.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="451">
+          <caret line="37" column="0" lean-forward="true" selection-start-line="37" selection-start-column="0" selection-end-line="37" selection-end-column="0" />
+          <folding>
+            <element signature="e#28#71#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

@@ -12,11 +12,11 @@ def app(request):
     global fixture
     if fixture is None:
         fixture = Application()
-        fixture.session.login(username="pavel.kosicin@wearevolt.com", password="abcd1234")
+        fixture.session.login(username='pavel.kosicin@wearevolt.com', password='abcd1234')
     else:
         if not fixture.is_valid():
             fixture = Application()
-            fixture.session.login(username="pavel.kosicin@wearevolt.com", password="abcd1234")
+            fixture.session.login(username='pavel.kosicin@wearevolt.com', password='abcd1234')
     return fixture
 
 
